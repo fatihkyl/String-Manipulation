@@ -1,5 +1,5 @@
 //**********************************************************************************************
-//4COM1037 – C++ String Manipulation Challenge
+// C++ String Manipulation Challenge
 //Author: Fatih Kayali
 //This program including all the code is my own work and has been tested fully 
 // *********************************************************************************************
